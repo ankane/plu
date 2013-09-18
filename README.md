@@ -2,9 +2,9 @@
 
 [Price look-up codes](http://en.wikipedia.org/wiki/Price_look-up_code) made easy
 
-:watermelon: 4032
-:banana: 4011
-:grapes: 4023
+- :watermelon: 4032
+- :banana: 4011
+- :grapes: 4023
 
 ## How To Use
 
@@ -30,9 +30,9 @@ PLU.new(2000).valid? # false
 
 For PLUs with 5 digits, the first digit has a special meaning: 9 specifies organic, and 8 specifies genetically modified.
 
-4011 - Bananas
-94011 - Organic bananas
-84011 - Genetically modified bananas
+- 4011 - Bananas
+- 94011 - Organic bananas
+- 84011 - Genetically modified bananas
 
 ```ruby
 PLU.new(94011).organic? # true
