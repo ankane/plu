@@ -8,7 +8,6 @@ class PLU
     /\A[89]?[34]\d{3}\z/.match(@number)
   end
 
-  # TODO more items
   def name
     self.class.all[base]
   end
@@ -21,6 +20,7 @@ class PLU
     modifier == "8"
   end
 
+  # TODO more items
   def self.all
     {
       "4011" => "Bananas"
