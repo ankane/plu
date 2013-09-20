@@ -1,3 +1,5 @@
+require "csv"
+
 class PLU
 
   def initialize(number)
@@ -22,9 +24,13 @@ class PLU
 
   # TODO more items
   def self.all
-    {
-      "4011" => "Bananas"
-    }
+    @all ||= begin
+      all = {}
+      CSV.foreach File.expand_path("../../plu_codes.csv", __FILE__), headers: true do |row|
+        all[row["PLU Code"]] = row["Name"]
+      end
+      all
+    end
   end
 
   protected

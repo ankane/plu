@@ -2,19 +2,21 @@
 
 [Price look-up codes](http://en.wikipedia.org/wiki/Price_look-up_code) made easy
 
-:watermelon: 4032  
-:banana: 4011  
-:grapes: 4023  
+:watermelon: 4032
+:banana: 4011
+:grapes: 4023
+
+[Download PLU Codes](https://raw.github.com/ankane/plu/master/plu_codes.csv) - data cleaned up from the [Produce Marketing Association](http://www.plucodes.com)
 
 ## How To Use
 
-List known PLUs (coming soon)
+List known PLUs
 
 ```ruby
 PLU.all
 ```
 
-Get name from PLU (coming soon)
+Get name from PLU
 
 ```ruby
 PLU.new(4011).name # Bananas
@@ -30,9 +32,9 @@ PLU.new(2000).valid? # false
 
 For PLUs with 5 digits, the first digit has a special meaning: 9 specifies organic, and 8 specifies genetically modified.
 
-4011 - Bananas  
-94011 - Organic bananas  
-84011 - Genetically modified bananas  
+4011 - Bananas
+94011 - Organic bananas
+84011 - Genetically modified bananas
 
 ```ruby
 PLU.new(94011).organic? # true
@@ -55,7 +57,7 @@ bundle
 
 ## TODO
 
-- add items
+- clean up data
 
 ## Resources
 
