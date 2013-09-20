@@ -6,7 +6,7 @@
 :banana: 4011
 :grapes: 4023
 
-[Download PLU Codes](https://raw.github.com/ankane/plu/master/plu_codes.csv) - data cleaned up from the [Produce Marketing Association](http://www.plucodes.com)
+[Download PLU codes](https://raw.github.com/ankane/plu/master/plu_codes.csv) - data cleaned up from the [Produce Marketing Association](http://www.plucodes.com)
 
 ## How To Use
 
