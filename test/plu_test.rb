@@ -7,6 +7,7 @@ class TestPLU < Minitest::Test
     assert plu.valid?
     assert !plu.organic?
     assert !plu.gm?
+    assert !plu.retailer_assigned?
   end
 
   def test_organic
@@ -38,6 +39,10 @@ class TestPLU < Minitest::Test
 
   def test_all
     assert_kind_of Hash, PLU.all
+  end
+
+  def test_retailer_assigned
+    assert PLU.new(3170).retailer_assigned?
   end
 
 end

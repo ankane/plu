@@ -22,6 +22,10 @@ class PLU
     modifier == "8"
   end
 
+  def retailer_assigned?
+    name.to_s.start_with?("Retailer Assigned")
+  end
+
   # TODO more items
   def self.all
     @all ||= begin

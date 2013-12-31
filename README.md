@@ -41,6 +41,12 @@ PLU.new(94011).organic? # true
 PLU.new(84011).gm?      # true
 ```
 
+### Retailer Assigned
+
+```ruby
+PLU.new(3170).retailer_assigned? # true
+```
+
 ## Installation
 
 Add this line to your Gemfile:
