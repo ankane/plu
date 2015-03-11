@@ -1,7 +1,6 @@
 require "csv"
 
 class PLU
-
   def initialize(number)
     @number = number.to_s
   end
@@ -46,5 +45,4 @@ class PLU
   def modifier
     @number[-5]
   end
-
 end
