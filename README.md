@@ -1,6 +1,6 @@
 # PLU
 
-[Price look-up codes](http://en.wikipedia.org/wiki/Price_look-up_code) made easy
+[Price look-up codes](https://en.wikipedia.org/wiki/Price_look-up_code) made easy
 
 :watermelon: 4032
 :banana: 4011
