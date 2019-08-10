@@ -1,6 +1,6 @@
 require_relative "test_helper"
 
-class TestPLU < Minitest::Test
+class PLUTest < Minitest::Test
   def test_plu
     plu = PLU.new(4011)
     assert plu.valid?
