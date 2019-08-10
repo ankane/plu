@@ -61,13 +61,13 @@ And run:
 bundle
 ```
 
-## TODO
-
-- clean up data
-
 ## Resources
 
 - [IFPS 2012 Users Guide](http://www.plucodes.com/docs/Users_Guide_July_2012_FINAL.pdf)
+
+## History
+
+View the [changelog](https://github.com/ankane/plu/blob/master/CHANGELOG.md)
 
 ## Contributing
 
