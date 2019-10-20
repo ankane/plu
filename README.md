@@ -8,7 +8,15 @@
 
 [Download PLU codes](https://raw.github.com/ankane/plu/master/plu_codes.csv) - data cleaned up from the [Produce Marketing Association](http://www.plucodes.com)
 
-## How To Use
+## Installation
+
+Add this line to your application’s Gemfile:
+
+```ruby
+gem 'plu'
+```
+
+## Getting Started
 
 List known PLUs
 
@@ -45,20 +53,6 @@ PLU.new(84011).gm?      # true
 
 ```ruby
 PLU.new(3170).retailer_assigned? # true
-```
-
-## Installation
-
-Add this line to your Gemfile:
-
-```ruby
-gem "plu"
-```
-
-And run:
-
-```sh
-bundle
 ```
 
 ## Resources
