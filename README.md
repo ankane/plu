@@ -72,3 +72,12 @@ Everyone is encouraged to help improve this project. Here are a few ways you can
 - Write, clarify, or fix documentation
 - Suggest or add new features
 - Help clean up [data](https://github.com/ankane/plu/blob/master/plu_codes.csv)
+
+To get started with development:
+
+```sh
+git clone https://github.com/ankane/plu.git
+cd plu
+bundle install
+bundle exec rake test
+```
