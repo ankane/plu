@@ -8,6 +8,8 @@
 
 [Download PLU codes](https://raw.github.com/ankane/plu/master/plu_codes.csv) - data cleaned up from the [Produce Marketing Association](http://www.plucodes.com)
 
+[![Build Status](https://github.com/ankane/plu/workflows/build/badge.svg?branch=master)](https://github.com/ankane/plu/actions)
+
 ## Installation
 
 Add this line to your application’s Gemfile:
