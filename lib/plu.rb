@@ -17,10 +17,6 @@ class PLU
     modifier == "9"
   end
 
-  def gm?
-    modifier == "8"
-  end
-
   def retailer_assigned?
     name.to_s.start_with?("Retailer Assigned")
   end

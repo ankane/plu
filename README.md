@@ -38,15 +38,13 @@ PLU.new(2000).valid? # false
 
 ### 5-Digit PLUs
 
-For PLUs with 5 digits, the first digit has a special meaning: 9 specifies organic, and 8 specifies genetically modified.
+For PLUs with 5 digits, the first digit has a special meaning: 9 specifies organic.
 
 4011 - Bananas :banana:
 94011 - Organic bananas :banana:
-84011 - Genetically modified bananas
 
 ```ruby
 PLU.new(94011).organic? # true
-PLU.new(84011).gm?      # true
 ```
 
 ### Retailer Assigned

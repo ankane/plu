@@ -5,16 +5,11 @@ class PLUTest < Minitest::Test
     plu = PLU.new(4011)
     assert plu.valid?
     assert !plu.organic?
-    assert !plu.gm?
     assert !plu.retailer_assigned?
   end
 
   def test_organic
     assert PLU.new(94011).organic?
-  end
-
-  def test_gm
-    assert PLU.new(84011).gm?
   end
 
   def test_invalid
