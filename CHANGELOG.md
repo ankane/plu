@@ -1,5 +1,6 @@
 ## 0.2.0 (unreleased)
 
+- Added latest PLU codes
 - Removed `gm?` method (no longer reserved)
 - Dropped support for Ruby < 2.7
 

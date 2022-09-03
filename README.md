@@ -6,7 +6,7 @@
 :banana: 4011
 :grapes: 4023
 
-[Download PLU codes](https://raw.github.com/ankane/plu/master/plu_codes.csv) - data cleaned up from the [Produce Marketing Association](http://www.plucodes.com)
+Data cleaned up from the [International Federation of Produce Standards](https://www.ifpsglobal.com/)
 
 [![Build Status](https://github.com/ankane/plu/workflows/build/badge.svg?branch=master)](https://github.com/ankane/plu/actions)
 
@@ -54,10 +54,6 @@ PLU.new(94011).organic? # true
 ```ruby
 PLU.new(3170).retailer_assigned? # true
 ```
-
-## Resources
-
-- [IFPS 2012 Users Guide](http://www.plucodes.com/docs/Users_Guide_July_2012_FINAL.pdf)
 
 ## History
 

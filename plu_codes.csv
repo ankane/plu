@@ -29,23 +29,23 @@ PLU Code,Name
 3027,Shamouti Oranges
 3028,Small Delta Seedless Oranges
 3029,Satsuma Tangerines/mandarins
-3030,Nova Tangerines/mandarins
-3031,Jamaican Tangor Tangerines/mandarins
+3030,"Nova (includes Clemenvilla, Suntina) Tangerines/mandarins"
+3031,"Jamaican Tangor (includes Ortanique, Mandor, Mandora, Tambor, Topaz, Ortanline) Tangerines/mandarins"
 3032,Ellendale Tangerines/mandarins
 3033,Small Charentais Melon
 3034,Large Charentais Melon
 3035,"Large White Flesh, Tree Ripened, Ready-to-eat Nectarine"
 3036,Small Midknight Oranges
 3037,Queen Pineapple
-3038,Granadilla Passion fruit
+3038,"Granadilla, Orange Passion fruit"
 3039,Physalis/cape gooseberry/ground cherry
 3040,Red (skin color) Pitahaya
 3041,Rambutan
 3042,Mangosteen
-3043,Italia Grapes
-3044,Black Apricots
-3045,Fresh Dates
-3046,Fresh Dates
+3043,"Italia, Seeded Grapes"
+3044,Black Velvet Apricots
+3045,"Fresh, On Branch Dates"
+3046,"Fresh, Frozen Dates"
 3047,Medjool Dates
 3048,Helda/Flat Beans
 3049,Fine Beans
@@ -53,11 +53,11 @@ PLU Code,Name
 3051,Spring Cabbage/Spring Greens Cabbage
 3052,String Garlic
 3053,Baby Parsnip
-3054,Elongated Peppers (capsicums)
-3055,Elongated Peppers (capsicums)
-3056,Elongated Peppers (capsicums)
-3057,Elongated Peppers (capsicums)
-3058,Elongated Peppers (capsicums)
+3054,Elongated (Clovis Red/Lamuyo Red) Peppers (capsicums)
+3055,Elongated (Clovis Green/Lamuyo Green) Peppers (capsicums)
+3056,Elongated (Clovis Yellow/Lamuyo Yellow) Peppers (capsicums)
+3057,Elongated (Clovis Orange/Lamuyo Orange) Peppers (capsicums)
+3058,Elongated (Clovis White/Lamuyo White) Peppers (capsicums)
 3059,Crown Prince Squash
 3060,Vegetable Marrow Squash
 3061,Beef/Beefsteak Tomatoes
@@ -68,9 +68,9 @@ PLU Code,Name
 3066,Large Cameo Apples
 3067,Small Swiss Gourmet Apples
 3068,Large Swiss Gourmet Apples
-3069,Small Gravenstein Apples
-3070,Large Gravenstein Apples
-3071,Granny Smith Apples
+3069,"Small Gravenstein, Red Apples"
+3070,"Large Gravenstein, Red Apples"
+3071,"Granny Smith, Red Apples"
 3072,Lady Apples
 3073,Macoun Apples
 3074,Greening (RI) Apples
@@ -84,9 +84,9 @@ PLU Code,Name
 3082,Crowns Broccoli
 3083,Stalk Brussels sprouts
 3084,Chervil
-3085,Large Indian Corn
-3086,Mini Indian Corn
-3087,Indian Corn
+3085,"Large Indian, Decorative Corn"
+3086,Mini Indian. Decorative Corn
+3087,"Indian, Strawberry Corn"
 3088,Red Currants
 3089,Chinese Eggplant (aubergine)
 3090,Thai Eggplant (aubergine)
@@ -96,8 +96,8 @@ PLU Code,Name
 3094,Retailer Assigned Grapes
 3095,Multicolor Kale
 3096,Purple/Red/All Other Colors Kohlrabi
-3097,Romaine Lettuce
-3098,Boston Lettuce
+3097,"Romaine, Red Lettuce"
+3098,"Boston, Red Lettuce"
 3099,Lotus root
 3100,Gold Honeydew Melon
 3101,Piel de Sapo Melon
@@ -109,30 +109,30 @@ PLU Code,Name
 3107,Medium Navel Oranges
 3108,Medium Valencia Oranges
 3109,Seville (Marmalade type) Oranges
-3110,Navel Oranges
+3110,"Navel, Cara Cara (Red) Oranges"
 3111,Red-Fleshed (Solo Sunrise) Papaya/pawpaw
 3112,Meridol Papaya/pawpaw
 3113,Flat White Flesh (Saturn type) Peaches
 3114,Extra Large Green Mango
 3115,Flat Yellow Flesh Peaches
-3116,Small Yellow Flesh Peaches
-3117,Large Yellow Flesh Peaches
+3116,Small Yellow Flesh (Tree Ripened/Ready-to-eat) Peaches
+3117,Large Yellow Flesh (Tree Ripened/Ready-to-eat) Peaches
 3118,Starkrimson Pears
-3119,"Small Bell, Greenhouse Peppers (capsicums)"
-3120,"Large Bell, Greenhouse Peppers (capsicums)"
-3121,"Bell, Greenhouse Peppers (capsicums)"
-3122,"Bell, Greenhouse Peppers (capsicums)"
-3123,"Bell, Greenhouse Peppers (capsicums)"
-3124,"Bell, Greenhouse Peppers (capsicums)"
+3119,"Small Bell, Greenhouse - Green Peppers (capsicums)"
+3120,"Large Bell, Greenhouse - Green Peppers (capsicums)"
+3121,"Bell, Greenhouse - Orange Peppers (capsicums)"
+3122,"Bell, Greenhouse - White Peppers (capsicums)"
+3123,"Bell, Greenhouse - Brown Peppers (capsicums)"
+3124,"Bell, Greenhouse - Purple Peppers (capsicums)"
 3125,Habanero Peppers (capsicums)
 3126,Retailer Assigned Plumcot (interspecific plum)
 3127,Medium Pomegranate
 3128,Purple Potato
-3129,Pummelo Grapefruit
+3129,Pummelo - Red Grapefruit
 3130,Jumbo Pumpkin
 3131,Decorative (Painted) Pumpkin
 3132,White Pumpkin
-3133,White Pumpkin
+3133,White - Mini Pumpkin
 3134,Pie Pumpkin Pumpkin
 3135,Ornamental Gourd
 3136,Sapodillo/nispero
@@ -142,15 +142,15 @@ PLU Code,Name
 3140,Cucuzza Squash
 3141,Opo Squash
 3142,Carnival Squash
-3143,Acorn Squash
+3143,Acorn - baby Squash
 3144,Fall Glo Tangerines/mandarins
-3145,Plum/Italian/Saladette/Roma Tomatoes
-3146,Cherry Tomatoes
-3147,Cherry Tomatoes
-3148,Regular Tomatoes
-3149,Regular Tomatoes
-3150,Cocktail/Intermediate Tomatoes
-3151,"Large Vine Ripe, Regular Tomatoes"
+3145,Plum/Italian/Saladette/Roma (Yellow) Tomatoes
+3146,"Cherry - Red, On the Vine Tomatoes"
+3147,"Cherry - Yellow, On the Vine Tomatoes"
+3148,"Regular - Yelllow, On the Vine (Truss) Tomatoes"
+3149,"Regular - Orange, On the Vine Tomatoes"
+3150,Cocktail/Intermediate - Red Tomatoes
+3151,"Large Vine Ripe, Regular - Red Tomatoes"
 3152,Melogold Grapefruit
 3153,Medium Delta Seedless Oranges
 3154,Large Delta Seedless Oranges
@@ -160,7 +160,7 @@ PLU Code,Name
 3158,Extra Large White Grapefruit
 3159,Extra Large White Grapefruit
 3160,Synonymous with Chinese Broccoli Gai lan
-3161,Baby Gai (gui) choy (chinese or indian mustard)
+3161,Baby - Chinese or Indian Mustard Gai (gui) choy (chinese or indian mustard)
 3162,Synonymous with Water Spinach Ong choy
 3163,Shanghai Bok choy (pak choi)
 3164,Yu choy
@@ -281,11 +281,11 @@ PLU Code,Name
 3279,Golden Kiwifruit
 3280,Jumbo Regular Kiwifruit
 3281,Orange Seedless Watermelon
-3282,Plum/Italian/Saladette/Roma on the vine Tomatoes
+3282,Plum/Italian/Saladette/Roma on the vine - Red Tomatoes
 3283,Honeycrisp Apples
 3284,Extra Large Red Delicious Apples
 3285,Extra Large Golden Delicious Apples
-3286,Sweet red Italian Onions
+3286,Sweet red Italian - flat Onions
 3287,Hawaiian plantain Bananas
 3288,Retailer Assigned Sweet potato/yam/kumara
 3289,Sprite Melon
@@ -311,9 +311,9 @@ PLU Code,Name
 3309,Lima Oranges
 3310,Pera Oranges
 3311,Curuba/Banana Passion fruit
-3312,Granadilla Passion fruit
-3313,Small White Flesh Peaches
-3314,Large White Flesh Peaches
+3312,Granadilla - Yellow/Maracuja Passion fruit
+3313,Small White Flesh - Tree Ripened/ Ready-to-eat Peaches
+3314,Large White Flesh - Tree Ripened/ Ready-to-eat Peaches
 3315,Small Scilate Apples
 3316,Carmen Pears
 3317,Angelys Pears
@@ -324,21 +324,21 @@ PLU Code,Name
 3322,Choy sum/pak choi sum
 3323,Baby Choy sum/pak choi sum
 3324,Red Escarole/batavian chicory
-3325,Lollo Bionda/Coral Lettuce
-3326,Lollo Rossa/Coral Lettuce
+3325,Lollo Bionda/Coral - Green Lettuce
+3326,Lollo Rossa/Coral - Red Lettuce
 3327,Mignonette (Compact red-tinged butterhead varieties) Lettuce
 3328,"Mixed small-leaf salad (eg Sucrine, Mesclun, Rocket/Arugula) Lettuce"
-3329,Oak Leaf Lettuce
-3330,Oak Leaf Lettuce
-3331,Red Fresh Onions
+3329,Oak Leaf - Green Lettuce
+3330,Oak Leaf - Reg Lettuce
+3331,Red Fresh - Bunch Onions
 3332,Baby Spinach
 3333,Small Red/Orangy White Flesh Sweet potato/yam/kumara
 3334,Large Red/Orangy White Flesh Sweet potato/yam/kumara
-3335,Cocktail/Intermediate Tomatoes
-3336,Cocktail/Intermediate Tomatoes
+3335,Cocktail/Intermediate - Red/On the Vine (Truss) Tomatoes
+3336,Cocktail/Intermediate - Red/Plum/Italian/Saladette/Roma/On the Vine (Truss) Tomatoes
 3337,(Dried Fruit) Figs
 3338,Anise
-3339,Belchard Apples
+3339,Belchard - Chantecler Apples
 3340,Bertanne/Golden Russet Apples
 3341,Charles Ross Apples
 3342,Delblush Apples
@@ -351,19 +351,19 @@ PLU Code,Name
 3349,Michaelmas Red Apples
 3350,Small Reine des Reinettes/King of the Pippins Apples
 3351,Large Reine des Reinettes/King of the Pippins Apples
-3352,Reinettes and Heritage varieties Apples
+3352,"Reinettes and Heritage varieties - (incl Canada blanc Reinette du Mans, Armorique/du Vigan/Calville Apples"
 3353,St Edmunds Pippin Apples
 3354,Ripe/Ready-to-Eat Avocados
-3355,Strawberries Berries
-3356,Strawberries Berries
+3355,Strawberries - Nominal 500g/1 litre Berries
+3356,Strawberries - Nominal250g/1/2 litre Berries
 3357,Small Regular/Red/Black Cherries
 3358,Large Regular/Red/Black Cherries
 3359,Chasselas Grapes
 3360,Muscat de Hambourg Grapes
 3361,Without p/harvest treatment Grapefruit
 3362,Without postharvest treatment Lemons
-3363,Bowen & Kensington Pride Mango
-3364,R2E2 (ArtwoEetwo) Mango
+3363,Kensington Pride Mango
+3364,R2E2 Mango
 3365,Ripe/Ready-to-Eat Mango
 3366,Madroña
 3367,Glasshouse - Netted varieties Melon
@@ -385,45 +385,45 @@ PLU Code,Name
 3383,Small Clementine Tangerines/mandarins
 3384,Medium Clementine Tangerines/mandarins
 3385,Large Clementine Tangerines/mandarins
-3386,Clementine Tangerines/mandarins
-3387,Clementine Tangerines/mandarins
-3388,Satsuma Tangerines/mandarins
+3386,Clementine (With leaves attached) Tangerines/mandarins
+3387,Clementine (Without p/harvest treatment) Tangerines/mandarins
+3388,Satsuma -Clauselina Tangerines/mandarins
 3389,Satsuma Tangerines/mandarins
 3390,Arracach
 3391,Rouge Salambo (Red) Artichokes
-3392,Green Asparagus
-3393,White Asparagus
-3394,Purple Asparagus
+3392,Green - Bunch Asparagus
+3393,White - Bunch Asparagus
+3394,Purple - Bunch Asparagus
 3395,Red Belgian endive (witloof chicory)
 3396,"Savoy, Red Cabbage"
-3397,Summer Cabbage Cabbage
+3397,Summer Cabbage - Pointed type Cabbage
 3398,Chickpeas/Garbanzo Chickpeas
-3399,Regular Garlic
-3400,Regular Garlic
+3399,Regular - Fresh/Semi-dried with leaves attached Garlic
+3400,Regular - Smoked Garlic
 3401,One-clove types Garlic
-3402,Regular Leeks
-3403,Baby Leeks
+3402,Regular - Bunch Leeks
+3403,Baby - Bunch Leeks
 3404,Cep Mushrooms
 3405,Fairy Ring Champignon Mushrooms
-3406,Grey Mushrooms
+3406,Grey - Tricholoma Mushrooms
 3407,Grisette Mushrooms
 3408,Horn of Plenty/Black Trumpet Mushrooms
 3409,Pioppino Mushrooms
 3410,Saffron Milk-Cap Mushrooms
 3411,Sheep Polypore Mushrooms
-3412,Yellow/Brown Fresh Onions
+3412,Yellow/Brown Fresh - Bunch Onions
 3413,Tabasco Peppers (capsicums)
-3414,Baking Potato
-3415,Baking Potato
+3414,Baking - White Potato
+3415,Baking - Red and Red Eye varieties Potato
 3416,Bunch Rhubarb
 3417,New Zealand Spinach Spinach
-3418,Zucchini/Courgette Squash
+3418,Zucchini/Courgette - Round Squash
 3419,Borage
 3420,Belle du Jumet Pears
 3421,Mini Seedless Watermelon
 3422,InterSpecific Apricots
 3423,Heirloom Tomatoes
-3424,Purple/Red Carrots
+3424,Purple/Red - Beta Sweet Carrots
 3425,Small Ellendale Tangerines/mandarins
 3426,Medium Ellendale Tangerines/mandarins
 3427,Large Ellendale Tangerines/mandarins
@@ -457,7 +457,7 @@ PLU Code,Name
 3455,Yellow Jackfruit
 3456,Winter Melon
 3457,President Plums
-3458,Cherry Tomatoes
+3458,Cherry - Orange Tomatoes
 3459,Shiny Red Persimmon
 3460,Red Jonaprince Apples
 3461,Lady Williams Apples
@@ -469,7 +469,7 @@ PLU Code,Name
 3467,Regal 13-82 Apples
 3468,Small Honeycrisp Apples
 3469,Sugrasixteen Grapes
-3470,Watermelon Melon
+3470,"Watermelon - Red, Small Seeds Melon"
 3471,Baby Cactus leaves (nopales/cactus pads)
 3472,Sacred pepper
 3473,Epazote
@@ -483,8 +483,8 @@ PLU Code,Name
 3481,Xpelon
 3482,Rabbit herb
 3483,Purple herb
-3484,DALINETTE Apples
-3485,HAROVIN SUNDOWN PEAR Pears
+3484,Dalinette Apples
+3485,Harovin Sundown Pears
 3486,CN121 Apples
 3487,MN 55 Apples
 3488,Extra Large Red Mango
@@ -512,6 +512,34 @@ PLU Code,Name
 3510,Small Ambrosia Apples
 3511,WA 2 Apples
 3512,Round Tomatoes
+3513,Shinano Gold Apples
+3514,Fengapi Apples
+3515,Small PremA 153 Apples
+3516,Large PremA 153 Apples
+3517,Retailer Assigned - Gold Derivative Varieties Kiwifruit
+3518,Oksana Pears
+3519,R10-45 Apples
+3520,SK-20 Onions
+3521,Regal D5-100 Apples
+3522,HW624 Pears
+3523,SQ 159 Apples
+3524,C37 Tangerines/mandarins
+3525,Small CN121 Apples
+3526,Howell TC2 Apples
+3527,Howell TC3 Apples
+3528,Regal D17-121 Apples
+3529,PremA 129 Apples
+3530,Jupiter Grapes
+3531,Sugra Family Black Seedless Grapes
+3532,Sugra Family Green Seedless Grapes
+3533,Sugra Family Novelty Seedless Grapes
+3534,Sugra Family Red Seedless Grapes
+3535,Sweetheart Onions
+3536,Sweet Pixie Plums
+3537,MAIA-L Apples
+3538,Ipador Apples
+3539,IFORED Y Series Apples
+3540,IFORED R Series Apples
 3600,Antares Apples
 3601,Huaguan Apples
 3602,Belgica Apples
@@ -556,12 +584,12 @@ PLU Code,Name
 4019,Large McIntosh Apples
 4020,Large Golden Delicious Apples
 4021,Small Golden Delicious Apples
-4022,White/Green Seedless Grapes
-4023,Red Seedless Grapes
+4022,White/Green Seedless - Peerlette Seedless/Thompson Seedless Grapes
+4023,Red Seedless - Flame/Ruby/Emperatriz Grapes
 4024,Small Bartlett/Williams/WBC Pears
 4025,Small Anjou Pears
 4026,Small Bosc/Beurre Bosc Pears
-4027,Small Ruby/Red/Pink Grapefruit
+4027,"Small Ruby/Red/Pink (includes Ray Ruby, Ruby, Ruby Red) Grapefruit"
 4028,Pint Strawberries Berries
 4029,Small Pineapple
 4030,Regular Kiwifruit
@@ -573,32 +601,32 @@ PLU Code,Name
 4036,Large Yellow Flesh Nectarine
 4037,Small Yellow Flesh Peaches
 4038,Large Yellow Flesh Peaches
-4039,Small Black Plums
-4040,Large Black Plums
-4041,Small Red Plums
-4042,Large Red Plums
-4043,Small Yellow Flesh Peaches
-4044,Large Yellow Flesh Peaches
+4039,"Small Black (Includes Ambra, Black Beaut, Prima Black, Blackamber, Black Torch, Catalina, Challenger, Black Diamond, Friar, Royal Diamond, Black Knight, Freedom, Black Flame, Howard Sun, Angeleno) Plums"
+4040,"Large Black (Includes Ambra, Black Beaut, Prima Black, Blackamber, Black Torch, Catalina, Challenger, Black Diamond, Friar, Royal Diamond, Black Knight, Freedom, Black Flame, Howard Sun, Angeleno) Plums"
+4041,"Small Red (Includes Santa Rosa, Late Santa Rosa, Red Beaut, Rich Red, Spring Beaut, First Beaut, Royal Red, Red Jewel, Rose Zee, Royal Zee, Ace, Aleta Rose, Burgandy, July Santa Rosa, Frontier, Fortune, Grand Rosa, Red Lane, Red Rosa, Casselman, Autumn Rosa, Mi Plums"
+4042,"Large Red (Includes Santa Rosa, Late Santa Rosa, Red Beaut, Rich Red, Spring Beaut, First Beaut, Royal Red, Red Jewel, Rose Zee, Royal Zee, Ace, Aleta Rose, Burgandy, July Santa Rosa, Frontier, Fortune, Grand Rosa, Red Lane, Red Rosa, Casselman, Autumn Rosa, Mi Plums"
+4043,Small Yellow Flesh - Tree Ripened/Ready-to-eat Peaches
+4044,Large Yellow Flesh - Tree Ripened/Ready-to-eat Peaches
 4045,Regular/Red/Black Cherries
 4046,Small Hass Avocados
-4047,Small Ruby/Red/Pink Grapefruit
+4047,"Small Ruby/Red/Pink (Includes Ray Ruby, Ruby, Ruby Red) Grapefruit"
 4048,"Regular (incl. Persian, Tahiti & Bearss) Limes"
 4049,Small Cantaloupe/Rockmelon Melon
 4050,Large Cantaloupe/Rockmelon Melon
-4051,Small Red Mango
+4051,"Small Red (Includes Tommy Atkins, Kent, Palmer, Vandyke, Edward,Hayden) Mango"
 4052,Small Regular Papaya/pawpaw
 4053,Large Lemons
-4054,Raspberries Berries
+4054,Raspberries - Red Berries
 4055,Tangerines/mandarins
-4056,Blue/Black Seedless Grapes
+4056,Blue/Black Seedless (All other varieties not listed above including Beauty and Autumn Royal) Grapes
 4057,Small Haralson Apples
 4058,Large Haralson Apples
 4060,Broccoli
 4061,Iceberg Lettuce
 4062,Green/Ridge/Short Cucumber
-4063,Small Regular Tomatoes
-4064,Large Regular Tomatoes
-4065,"Large Bell, Field Grown Peppers (capsicums)"
+4063,Small Regular - Red Tomatoes
+4064,Large Regular - Red Tomatoes
+4065,"Large Bell, Field Grown - Green Peppers (capsicums)"
 4066,Green/French Beans
 4067,Zucchini/Courgette Squash
 4068,Green (Scallions)/Spring Onions
@@ -620,7 +648,7 @@ PLU Code,Name
 4084,Large Artichokes
 4085,Large Regular Mushrooms
 4086,Yellow Zucchini/Gold Bar/Yellow Courgette Squash
-4087,Plum/Italian/Saladette/Roma Tomatoes
+4087,Plum/Italian/Saladette/Roma - Red Tomatoes
 4088,Red Bell Peppers
 4089,Bunched Red Radish
 4090,Regular/Bunched Spinach
@@ -717,7 +745,7 @@ PLU Code,Name
 4182,Sturmer Pippin Apples
 4183,Large Stayman Apples
 4185,Small York Apples
-4186,Small Yellow Bananas
+4186,Small Yellow (includes Cavendish) Bananas
 4187,Large York Apples
 4188,"Small White Flesh, Tree Ripened, Ready-to-eat Nectarine"
 4189,Small Winesap Apples
@@ -775,8 +803,8 @@ PLU Code,Name
 4241,Boysenberries Berries
 4242,Cranberries Berries
 4243,Gooseberries Berries
-4244,Raspberries Berries
-4245,Raspberries Berries
+4244,Raspberries - Black Berries
+4245,Raspberries - Golden Berries
 4246,Pint Strawberries Berries
 4247,Quart Strawberries Berries
 4248,Quart Strawberries Berries
@@ -794,30 +822,30 @@ PLU Code,Name
 4260,In Husk/Waternut Coconuts
 4261,Husked Coconuts
 4262,Retailer Assigned Coconuts
-4263,Fresh Dates
-4264,Retailer Assigned Dates
+4263,Fresh - Regular Dates
+4264,Fresh - Retailer Assigned Dates
 4265,Feijoa
 4266,Black Figs
 4267,Brown Figs
 4268,White/Green Figs
 4269,Retailer Assigned Figs
-4270,Blue/Black Seeded Grapes
+4270,Blue/Black Seeded (Ribier/Exotic/Niabel) Grapes
 4271,Champagne Grapes
 4272,Concord Grapes
-4273,Red Seeded Grapes
-4274,White/Green Seeded Grapes
+4273,Red Seeded (Cardinal/Emperor/Queen/Christmas Rose) Grapes
+4274,White/Green Seeded (All others not listed) Grapes
 4275,Retailer Assigned Grapes
 4276,Retailer Assigned Grapes
 4277,Retailer Assigned Grapes
 4278,Retailer Assigned Grapes
-4279,Pummelo Grapefruit
-4280,Small Ruby/Red/Pink Grapefruit
-4281,Large Ruby/Red/Pink Grapefruit
-4282,Large Ruby/Red/Pink Grapefruit
-4283,Large Ruby/Red/Pink Grapefruit
+4279,Pummelo - White Grapefruit
+4280,"Small Ruby/Red/Pink (Includes Ray Ruby, Ray, Ruby Red) Grapefruit"
+4281,"Large Ruby/Red/Pink (ncludes Ray Ruby, Ruby, Ruby Red) Grapefruit"
+4282,"Large Ruby/Red/Pink (Includes Ray Ruby, Ruby, Ruby Red) Grapefruit"
+4283,"Large Ruby/Red/Pink (Includes Ray Ruby, Ray, Ruby Red) Grapefruit"
 4284,Small Deep Red Grapefruit
 4285,Small Deep Red Grapefruit
-4286,Sm Deep Red Grapefruit
+4286,Small Deep Red Grapefruit
 4287,Large Deep Red Grapefruit
 4288,Large Deep Red Grapefruit
 4289,Large Deep Red Grapefruit
@@ -842,8 +870,8 @@ PLU Code,Name
 4308,Loquats
 4309,Lychees
 4310,Mamey
-4311,Small Green Mango
-4312,Small Yellow Mango
+4311,Small Green (Includes Keitt and Francis) Mango
+4312,"Small Yellow (Includes Oro, Ataulfo/Honey Manila) Mango"
 4313,Retailer Assigned Mango
 4314,Retailer Assigned Mango
 4315,Retailer Assigned Mango
@@ -937,18 +965,18 @@ PLU Code,Name
 4403,Large Yellow Flesh Peaches
 4404,Retailer Assigned Peaches
 4405,Retailer Assigned Peaches
-4406,Asian/Nashi Pears
-4407,Asian/Nashi Pears
-4408,Asian/Nashi Pears
+4406,Asian/Nashi - White Pears
+4407,Asian/Nashi - Yellow Pears
+4408,Asian/Nashi - Brown Pears
 4409,Large Bartlett/Williams/WBC Pears
-4410,Bartlett Pears
+4410,Bartlett - Red/Red Sensation Pears
 4411,Small Bosc/Beurre Bosc Pears
 4412,Large Bosc/Beurre Bosc Pears
 4413,Large Bosc/Beurre Bosc Pears
 4414,Comice/ Doyenne du Comice Pears
 4415,Red Pears
 4416,Large Anjou Pears
-4417,Anjou Pears
+4417,Anjou - Red Pears
 4418,Forelle/Corella Pears
 4419,French Pears
 4420,King Royal Pears
@@ -965,21 +993,21 @@ PLU Code,Name
 4431,Small Jet Fresh Pineapple
 4432,Large Jet Fresh Pineapple
 4433,Retailer Assigned Pineapple
-4434,Small Green Plums
-4435,Large Green Plums
+4434,"Small Green (Includes Dolly, Kelsey, Wickson) Plums"
+4435,"Large Green (Includes Dolly, Kelsey, Wickson) Plums"
 4436,Italian Prune/Sugar Plums
-4437,Small Purple Plums
-4438,Large Purple Plums
+4437,"Small Purple (Includes Queen Rosa, Laroda, Nublana, Queen Ann, Simka, El Dorado) Plums"
+4438,"Large Purple (Includes Queen Rosa, Laroda, Nublana, Queen Ann, Simka, El Dorado) Plums"
 4439,Small Tree Ripened Plums
 4440,Large Tree Ripened Plums
-4441,Small Yellow Plums
-4442,Large Yellow Plums
+4441,Small Yellow (Includes Golden Globe) Plums
+4442,Large Yellow (Includes Golden Globe) Plums
 4443,Retailer Assigned Plums
 4444,Retailer Assigned Plums
 4445,Small Pomegranate
 4446,Retailer Assigned Pomegranate
 4447,Quince
-4448,Tamarindo
+4448,Tamarind
 4449,Sunburst Tangerines/mandarins
 4450,Clementine (includes Fortune) Tangerines/mandarins
 4451,Dancy Tangerines/mandarins
@@ -1022,14 +1050,14 @@ PLU Code,Name
 4488,Retailer Assigned Other fruits
 4489,Retailer Assigned Other fruits
 4490,Retailer Assigned Other fruits
-4491,Extra Large Ruby/Red/Pink Grapefruit
-4492,Extra Large Ruby/Red/Pink Grapefruit
-4493,Extra Large Ruby/Red/Pink Grapefruit
+4491,"Extra Large Ruby/Red/Pink (includes Ray Ruby, Ruby, Ruby Red) Grapefruit"
+4492,"Extra Large Ruby/Red/Pink (includes Ray Ruby, Ruby, Ruby Red) Grapefruit"
+4493,"Extra Large Ruby/Red/Pink (Includes Ray Ruby, Ruby, Ruby Red) Grapefruit"
 4494,Extra Large Deep Red Grapefruit
 4495,Extra Large Deep Red Grapefruit
 4496,Extra Large Deep Red Grapefruit
-4497,Sugraone/Autumn Seedless Grapes
-4498,White/Green Seedless Grapes
+4497,Sugraone Grapes
+4498,White/Green Seedless (All others not listed above (including Autumn King)) Grapes
 4499,Crimson/Majestic Grapes
 4500,Retailer Assigned Other vegetables
 4501,Retailer Assigned Other vegetables
@@ -1114,7 +1142,7 @@ PLU Code,Name
 4581,Retailer Assigned Celery
 4582,Large Bunch Celery
 4583,Large Bunch Celery
-4584,Large Green Mango
+4584,Large Green (Includes Keitt and Francis) Mango
 4585,Celery root/celeriac
 4586,Green Chard (swiss chard)/silverbeet
 4587,Red Chard (swiss chard)/silverbeet
@@ -1137,7 +1165,7 @@ PLU Code,Name
 4604,Endive/chicory
 4605,Green Escarole/batavian chicory
 4606,Fiddlehead ferns
-4607,Gai (gui) choy (chinese or indian mustard)
+4607,Chinese or Indian Mustard Gai (gui) choy (chinese or indian mustard)
 4608,Regular Garlic
 4609,Elephant Garlic
 4610,Retailer Assigned Garlic
@@ -1146,7 +1174,7 @@ PLU Code,Name
 4613,Retailer Assigned Ginger root
 4614,Collard Greens
 4615,Dandelion Greens
-4616,Mustard Greens
+4616,Mustard (Synonymous with Gai (Gui) Choy) Greens
 4617,Polk Greens Greens
 4618,Texas Mustard Greens
 4619,Turnip Greens
@@ -1165,9 +1193,9 @@ PLU Code,Name
 4632,Boston/Butter Lettuce
 4633,Hydroponic Lettuce
 4634,Iceberg Lettuce
-4635,Red Seedless Grapes
+4635,Red Seedless (All others not listed under red seedless) Grapes
 4636,Red Globe Grapes
-4637,Red Seeded Grapes
+4637,Red Seeded (All others not listed above) Grapes
 4638,Fantasy/Marroo Grapes
 4639,Mache Lettuce
 4640,Romaine/Cos Lettuce
@@ -1180,7 +1208,7 @@ PLU Code,Name
 4647,Chanterelle Mushrooms
 4648,Cremini/Brown/Swiss Brown Mushrooms
 4649,Oyster Mushrooms
-4650,Portabella Mushrooms
+4650,"Portabella (Synonymous with Cremini, Brown, Swiss Brown Mushrooms) Mushrooms"
 4651,Shiitake Mushrooms
 4652,Wood Ear Mushrooms
 4653,Retailer Assigned Mushrooms
@@ -1194,7 +1222,7 @@ PLU Code,Name
 4661,"Pickling, White Onions"
 4662,Shallots Onions
 4663,White Onions
-4664,Regular Tomatoes
+4664,"Regular - Red, On the Vine (Truss) Tomatoes"
 4665,Small Yellow/Brown Onions
 4666,Retailer Assigned Onions
 4667,Retailer Assigned Onions
@@ -1209,30 +1237,30 @@ PLU Code,Name
 4676,Retailer Assigned Peas
 4677,Anaheim (Green and Red) Peppers (capsicums)
 4678,Banana (Yellow Long) Peppers (capsicums)
-4679,"Bell, Field Grown Peppers (capsicums)"
-4680,"Bell, Field Grown Peppers (capsicums)"
-4681,"Small Bell, Field Grown Peppers (capsicums)"
-4682,"Bell, Field Grown Peppers (capsicums)"
-4683,"Bell, Field Grown Peppers (capsicums)"
-4684,"Bell, Field Grown Peppers (capsicums)"
-4685,Chili Peppers (capsicums)
-4686,Chili Peppers (capsicums)
+4679,"Bell, Field Grown - Brown Peppers (capsicums)"
+4680,"Bell, Field Grown - Golden (Yellow) Peppers (capsicums)"
+4681,"Small Bell, Field Grown - Green Peppers (capsicums)"
+4682,"Bell, Field Grown - Orange Peppers (capsicums)"
+4683,"Bell, Field Grown - Purple Peppers (capsicums)"
+4684,"Bell, Field Grown - White Peppers (capsicums)"
+4685,Chili - Dried Peppers (capsicums)
+4686,Chili - Green Peppers (capsicums)
 4687,Cubanelle Peppers (capsicums)
-4688,"Bell, Greenhouse Peppers (capsicums)"
-4689,"Bell, Greenhouse Peppers (capsicums)"
+4688,"Bell, Greenhouse - Red Peppers (capsicums)"
+4689,"Bell, Greenhouse - Yellow Peppers (capsicums)"
 4690,Hot (Hungarian Hot) Peppers (capsicums)
 4691,Hot Mixed Peppers (capsicums)
 4692,Hungarian Wax Peppers (capsicums)
-4693,Jalapeno Peppers (capsicums)
-4694,Jalapeno Peppers (capsicums)
-4695,Japanese Peppers (capsicums)
-4696,Long Hot Peppers (capsicums)
-4697,Long Hot Peppers (capsicums)
+4693,Jalapeno - Green/Mexican Green Peppers (capsicums)
+4694,Jalapeno - Red/Mexican Red Peppers (capsicums)
+4695,Japanese - Red Peppers (capsicums)
+4696,Long Hot - Green Peppers (capsicums)
+4697,Long Hot - Red Peppers (capsicums)
 4698,Morita Chili Peppers (capsicums)
 4699,Negro Peppers (capsicums)
 4700,New Mexico Peppers (capsicums)
-4701,Pasilla Peppers (capsicums)
-4702,Pasilla Peppers (capsicums)
+4701,Pasilla - Green Peppers (capsicums)
+4702,Pasilla - Red Peppers (capsicums)
 4703,Pasilla Pod Peppers (capsicums)
 4704,Pinole Peppers (capsicums)
 4705,Poblano Peppers (capsicums)
@@ -1253,10 +1281,10 @@ PLU Code,Name
 4720,Retailer Assigned Peppers (capsicums)
 4721,Retailer Assigned Peppers (capsicums)
 4722,Retailer Assigned Peppers (capsicums)
-4723,Creamer Potato
-4724,Creamer Potato
+4723,Creamer - Red Potato
+4724,Creamer - White Potato
 4725,Russet Potato
-4726,Long Potato
+4726,Long - White Potato
 4727,Yellow Potato
 4728,Retailer Assigned Potato
 4729,Retailer Assigned Potato
@@ -1281,8 +1309,8 @@ PLU Code,Name
 4748,Retailer Assigned Rutabagas (swede)
 4749,Retailer Assigned Spinach
 4750,Acorn/Table Queen Squash
-4751,Acorn Squash
-4752,Acorn Squash
+4751,Acorn - Golden Squash
+4752,Acorn - Swan White Table Queen Squash
 4753,Australian Blue Squash
 4754,Baby Scallopini Squash
 4755,Baby Summer (Green) Squash
@@ -1302,19 +1330,19 @@ PLU Code,Name
 4769,Kabocha Squash
 4770,Hass Avocados
 4771,Medium Green Avocados
-4772,Chili Peppers (capsicums)
+4772,Chili - Yellow Peppers (capsicums)
 4773,Patty Pan/Summer Squash
 4774,Red Kuri Squash
 4775,Scallopini Squash
 4776,Spaghetti/Vegetable Spaghetti Squash
 4777,Sunburst (Yellow) Squash
-4778,Regular Tomatoes
+4778,Regular - Yellow Tomatoes
 4779,Sweet Mama Squash
 4780,Turban Squash
 4781,White Squash
-4782,Yellow Squash
+4782,Yellow - Straightneck Squash
 4783,"Foo Qua Bitter melon/bitter gourd, foo qua"
-4784,Yellow Squash
+4784,Yellow - Crookneck Squash
 4785,Retailer Assigned Squash
 4786,Retailer Assigned Squash
 4787,Retailer Assigned Squash
@@ -1326,16 +1354,16 @@ PLU Code,Name
 4793,Red Tamarillo
 4794,Small Taro root (dasheen)
 4795,Large Taro root (dasheen)
-4796,Cherry Tomatoes
-4797,Cherry Tomatoes
-4798,Small Greenhouse/Hydroponic/Regular Tomatoes
-4799,Large Greenhouse/Hydroponic/Regular Tomatoes
+4796,Cherry - Red Tomatoes
+4797,Cherry - Yellow Tomatoes
+4798,Small Greenhouse/Hydroponic/Regular - Red Tomatoes
+4799,Large Greenhouse/Hydroponic/Regular - Red Tomatoes
 4800,Native/Home Grown Tomatoes
 4801,Tomatillos/Husk Tomatoes Tomatoes
 4802,Dried Tomatoes
-4803,Teardrop/Pear Tomatoes
-4804,Teardrop/Pear Tomatoes
-4805,"Small Vine Ripe, Regular Tomatoes"
+4803,Teardrop/Pear - Red Tomatoes
+4804,Teardrop/Pear - Yellow Tomatoes
+4805,"Small Vine Ripe, Regular - Red Tomatoes"
 4806,Retailer Assigned Tomatoes
 4807,Retailer Assigned Tomatoes
 4808,Retailer Assigned Tomatoes
@@ -1390,16 +1418,16 @@ PLU Code,Name
 4857,Retailer Assigned Other vegetables
 4858,Retailer Assigned Other vegetables
 4859,Retailer Assigned Other vegetables
-4860,(Dried Fruit) Apple slices
-4861,(Dried Fruit) Apricots
-4862,(Dried Fruit) Dates
-4863,Retailer Assigned Dates
-4864,(Dried Fruit) Pineapple
-4865,Regular Prunes
-4866,Pitted Prunes
-4867,Retailer Assigned Prunes
-4868,Black Raisins
-4869,Golden/Yellow Raisins
+4860,Dried Apple slices
+4861,Dried Apricots
+4862,Dried Dates
+4863,Retailer Assigned - Dried Dates
+4864,Dried Pineapple
+4865,Regular (Dried Fruit) Prunes
+4866,Pitted (Dried Fruit) Prunes
+4867,Retailer Assigned - Dried Prunes
+4868,Black (Dried Fruit) Raisins
+4869,Golden/Yellow (Dried Fruit) Raisins
 4870,Retailer Assigned Other dried fruits
 4871,Retailer Assigned Other dried fruits
 4872,Retailer Assigned Other dried fruits
@@ -1461,8 +1489,8 @@ PLU Code,Name
 4929,Mixed nuts
 4930,Peanuts
 4931,Raw Peanuts
-4932,Roasted Peanuts
-4933,Roasted Peanuts
+4932,Roasted - Salted Peanuts
+4933,Roasted - Unsalted Peanuts
 4934,Retailer Assigned Peanuts
 4935,Retailer Assigned Peanuts
 4936,Pecans
@@ -1486,8 +1514,8 @@ PLU Code,Name
 4954,Retailer Assigned Other nuts
 4955,Retailer Assigned Other nuts
 4956,Retailer Assigned Other nuts
-4957,Blue/Black Seeded Grapes
+4957,Blue/Black Seeded (All others not listed above) Grapes
 4958,Medium Lemons
-4959,Large Red Mango
+4959,"Large Red (Includes Tommy Atkins, Kent, Palmer Vandyke, Edward, Hayden) Mango"
 4960,Fragrant Pears
 4961,Large Yellow Mango
