@@ -1,4 +1,8 @@
+# stdlib
 require "csv"
+
+# modules
+require_relative "plu/version"
 
 class PLU
   def initialize(number)
