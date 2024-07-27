@@ -8,7 +8,7 @@
 
 Data cleaned up from the [International Federation of Produce Standards](https://www.ifpsglobal.com/)
 
-[![Build Status](https://github.com/ankane/plu/workflows/build/badge.svg?branch=master)](https://github.com/ankane/plu/actions)
+[![Build Status](https://github.com/ankane/plu/actions/workflows/build.yml/badge.svg)](https://github.com/ankane/plu/actions)
 
 ## Installation
 
