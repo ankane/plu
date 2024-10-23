@@ -9,6 +9,7 @@ end
 
 task :update, [:file] do |t, args|
   require "csv"
+  require "json"
 
   codes = {}
   CSV.foreach(args.file, headers: true) do |row|
@@ -33,10 +34,5 @@ task :update, [:file] do |t, args|
     4341 => "Yellow Seedless Watermelon"
   )
 
-  CSV.open("plu_codes.csv", "wb") do |csv|
-    csv << ["PLU Code", "Name"]
-    codes.each do |plu, name|
-      csv << [plu, name]
-    end
-  end
+  File.write("plu_codes.json", JSON.pretty_generate(codes))
 end

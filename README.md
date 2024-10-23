@@ -67,7 +67,6 @@ Everyone is encouraged to help improve this project. Here are a few ways you can
 - Fix bugs and [submit pull requests](https://github.com/ankane/plu/pulls)
 - Write, clarify, or fix documentation
 - Suggest or add new features
-- Help clean up [data](https://github.com/ankane/plu/blob/master/plu_codes.csv)
 
 To get started with development:
 

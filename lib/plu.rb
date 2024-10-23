@@ -1,5 +1,5 @@
 # stdlib
-require "csv"
+require "json"
 
 # modules
 require_relative "plu/version"
@@ -25,15 +25,8 @@ class PLU
     name.to_s.start_with?("Retailer Assigned")
   end
 
-  # TODO more items
   def self.all
-    @all ||= begin
-      all = {}
-      CSV.foreach File.expand_path("../../plu_codes.csv", __FILE__), headers: true do |row|
-        all[row["PLU Code"]] = row["Name"]
-      end
-      all
-    end
+    @all ||= JSON.load_file(File.expand_path("../plu_codes.json", __dir__))
   end
 
   protected
