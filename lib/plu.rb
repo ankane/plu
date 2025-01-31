@@ -10,7 +10,7 @@ class PLU
   end
 
   def valid?
-    /\A[89]?[34]\d{3}\z/.match(@number)
+    /\A[89]?[34]\d{3}\z/.match?(@number)
   end
 
   def name

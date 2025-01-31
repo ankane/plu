@@ -1,6 +1,7 @@
 ## 0.3.1 (unreleased)
 
 - Fixed error with missing file
+- Fixed return type of `valid?` method
 
 ## 0.3.0 (2024-10-23)
 

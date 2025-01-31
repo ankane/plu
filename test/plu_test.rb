@@ -3,20 +3,20 @@ require_relative "test_helper"
 class PLUTest < Minitest::Test
   def test_plu
     plu = PLU.new(4011)
-    assert plu.valid?
-    assert !plu.organic?
-    assert !plu.retailer_assigned?
+    assert_equal true, plu.valid?
+    assert_equal false, plu.organic?
+    assert_equal false, plu.retailer_assigned?
   end
 
   def test_organic
-    assert PLU.new(94011).organic?
+    assert_equal true, PLU.new(94011).organic?
   end
 
   def test_invalid
-    assert !PLU.new(2000).valid?
-    assert !PLU.new(5000).valid?
-    assert !PLU.new(400).valid?
-    assert !PLU.new(40111).valid?
+    assert_equal false, PLU.new(2000).valid?
+    assert_equal false, PLU.new(5000).valid?
+    assert_equal false, PLU.new(400).valid?
+    assert_equal false, PLU.new(40111).valid?
   end
 
   def test_invalid_modifier
@@ -36,6 +36,6 @@ class PLUTest < Minitest::Test
   end
 
   def test_retailer_assigned
-    assert PLU.new(3170).retailer_assigned?
+    assert_equal true, PLU.new(3170).retailer_assigned?
   end
 end
